@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5760caec-b719-44af-9dd1-eebd0aea88ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hxioo2EeUyITNv97O9sIoLdB4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5760caec-b719-44af-9dd1-eebd0aea88ff" name="Default Changelist" comment="" />
+      <created>1600959321022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600959321022</updated>
+      <workItem from="1600959322143" duration="1325000" />
+      <workItem from="1601020214092" duration="5248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/model/Game.js" />
+        <option value="$PROJECT_DIR$/src/model/Snake.js" />
+        <option value="$PROJECT_DIR$/src/model/Direction.js" />
+        <option value="$PROJECT_DIR$/src/model/DirectionCodes.js" />
+        <option value="$PROJECT_DIR$/src/utils.js" />
+        <option value="$PROJECT_DIR$/src/constants.js" />
+        <option value="$PROJECT_DIR$/src/model/Pos.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1498" y="957" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601022637136">
+      <screen x="1080" y="720" width="1920" height="1200" />
+    </state>
+    <state x="1498" y="957" key="#com.intellij.execution.impl.EditConfigurationsDialog/1080.720.1920.1200/0.0.1080.1878@1080.720.1920.1200" timestamp="1601022637136" />
+    <state x="1823" y="1057" width="426" height="479" key="FileChooserDialogImpl" timestamp="1601021302491">
+      <screen x="1080" y="720" width="1920" height="1200" />
+    </state>
+    <state x="1823" y="1057" width="426" height="479" key="FileChooserDialogImpl/1080.720.1920.1200/0.0.1080.1878@1080.720.1920.1200" timestamp="1601021302491" />
+    <state x="1726" y="920" width="628" height="759" key="find.popup" timestamp="1601023094883">
+      <screen x="1080" y="720" width="1920" height="1200" />
+    </state>
+    <state x="1726" y="920" width="628" height="759" key="find.popup/1080.720.1920.1200/0.0.1080.1878@1080.720.1920.1200" timestamp="1601023094883" />
+  </component>
+</project>

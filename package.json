@@ -1,0 +1,15 @@
+{
+  "name": "destinations-api",
+  "version": "1.0.0",
+  "main": "./index",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "tsc && node ."
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
